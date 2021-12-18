@@ -81,3 +81,4 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 # app_super_gestao
  Aplicação web criado com intuito de pratica e treinamento no curso laravel.
 >>>>>>> ba2b11abf304f4ad91611eabbdecfaccbca794bd
+## Luciano Ferreira Silva - 2021
